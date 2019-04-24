@@ -4,6 +4,6 @@ class Student
   end
 
   def raise_hand
-    10.times {|pick| puts "Pick me!"}
+    10.times {|pick| "Pick me!"}
   end
 end
